@@ -1,0 +1,20 @@
+{
+  "name": "task2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Reham Raafat",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-datasource": "^3.3.2",
+    "apollo-server": "^3.9.0",
+    "graphql": "^16.5.0",
+    "mongoose": "^6.4.2",
+    "path": "^0.12.7"
+  }
+}
